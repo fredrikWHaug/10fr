@@ -19,4 +19,5 @@ def main():
     print_pyramid(height)
 
 if __name__ == '__main__':
+    
     main()
